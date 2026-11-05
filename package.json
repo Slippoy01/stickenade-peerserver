@@ -1,0 +1,15 @@
+{
+  "name": "stickenade-peerserver",
+  "version": "1.0.0",
+  "description": "Dedicated PeerServer for stickenade WebRTC Signaling",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
